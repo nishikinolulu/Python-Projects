@@ -6,8 +6,8 @@ wanna get hired
 
 freecodecamp Data Anyalysis with Python projects:
 
-i.) Mean-Variance-Standard Deviation Calculator
-ii.) Demographic Data Analyzer
+i.) Mean-Variance-Standard Deviation Calculator\n
+ii.) Demographic Data Analyzer\n
 iii.) Medical Data Visualizer
 
 ## 2.) Scientific Computing with Python
